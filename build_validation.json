@@ -1,0 +1,2126 @@
+{
+  "document": "ORING_MACHINE_VERSION_A_VALIDATED_100726",
+  "parameters": {
+    "disc_diameter": 558.8,
+    "disc_thickness": 6.35,
+    "disc_top": 800.0,
+    "track_radius": 249.4,
+    "sample_od": 40.0,
+    "sample_cs": 3.0,
+    "index_angle": 30.0,
+    "silicone_thickness": 2.0,
+    "clamp_thickness": 2.0,
+    "disc_hole": 34.0,
+    "belt_width": 95.0,
+    "conveyor_length": 501.0,
+    "conveyor_y": -60.0,
+    "lens_diameter": 32.0,
+    "lens_length": 27.9,
+    "working_distance": 150.0,
+    "light_od": 100.0,
+    "light_id": 60.0,
+    "light_height": 20.0
+  },
+  "shape_objects": 524,
+  "invalid_shapes": [],
+  "build_method": "Complete Python script, independently generated Version A",
+  "limitations": "Concept engineering CAD; see shared design basis. No dynamic transfer or optical qualification.",
+  "component_manifest": [
+    {
+      "name": "40x40 upright -800 -480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Levelling foot -800 -480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "40x40 upright -800 480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Levelling foot -800 480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "40x40 upright 800 -480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Levelling foot 800 -480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "40x40 upright 800 480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Levelling foot 800 480",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Long frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Long frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "End frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "End frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Long frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Long frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "End frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "End frame rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Lower shelf crossmember",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Lower shelf crossmember",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Removable electronics shelf",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Corner triangular gusset",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gusset fasteners",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Corner triangular gusset",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gusset fasteners",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Corner triangular gusset",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gusset fasteners",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Corner triangular gusset",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gusset fasteners",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Drive bridge cross rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bridge riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bridge riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Drive bridge cross rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bridge riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bridge riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Actuator mounting plate 12 mm",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PGFUN DN85 10 to 1 EXACT 8 mm CAD",
+      "source": "Manufacturer STEP supplied locally; unscaled, translated only"
+    },
+    {
+      "name": "Four actuator mounting screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "ISC176 NEMA23 lamination body 57.3 x 57.3 x 82",
+      "source": "Seller envelope; end geometry approximated"
+    },
+    {
+      "name": "NEMA23 endcaps and pilot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "NEMA23 8 mm shaft",
+      "source": "Seller shaft8x21; CAD mating bore8"
+    },
+    {
+      "name": "NEMA23 cable gland",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "NEMA23 four mount screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Lower silicone interface",
+      "source": "Project stock thickness; clamp diameter/hole clearance provisional"
+    },
+    {
+      "name": "Upper silicone interface",
+      "source": "Project stock thickness; clamp diameter/hole clearance provisional"
+    },
+    {
+      "name": "Aluminium annular clamp 2 mm",
+      "source": "Project stock thickness; clamp diameter/hole clearance provisional"
+    },
+    {
+      "name": "Acrylic disc 558.8 x 6.35",
+      "source": "Project-confirmed OD/thickness; centre bore34 and fastener clearance provisional"
+    },
+    {
+      "name": "Six M4 clamp screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry aluminium side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry aluminium side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry 8 mm nose and 16 mm idler",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry continuous belt 95 x 501 with drive wrap",
+      "source": "Provisional Dorner1100-class routing; thin belt tessellation, supplier layout to confirm"
+    },
+    {
+      "name": "Entry mid drive 32 mm roller",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry geared motor approximation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry open return support saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry open return support saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable O-ring guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry adjustable O-ring guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide overhead support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide overhead support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry rail adjustment screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit aluminium side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit aluminium side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit 8 mm nose and 16 mm idler",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit continuous belt 95 x 501 with drive wrap",
+      "source": "Provisional Dorner1100-class routing; thin belt tessellation, supplier layout to confirm"
+    },
+    {
+      "name": "Exit mid drive 32 mm roller",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit geared motor approximation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit open return support saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit open return support saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable O-ring guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit adjustable O-ring guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide overhead support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide overhead support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide bracket pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit guide suspension pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit rail adjustment screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry curved transfer rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry curved transfer rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry stationary crescent transfer bridge",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry bridge support tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry bridge side bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry bridge bracket riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry bridge lower tie",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit curved transfer rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit curved transfer rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit stationary crescent transfer bridge",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit bridge support tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit bridge side bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit bridge bracket riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Exit bridge lower tie",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide at side station",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide at side station",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner clear top bottom station guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outer guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outer guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outer guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outer guide arc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side guide lift gate OPEN for stationary exposure",
+      "source": "Custom 12-mm retractable guide; closed before any index, raised only during dwell"
+    },
+    {
+      "name": "Side guide lift actuator reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side guide lift rod",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation crosshead",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation guide pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation guide pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate actuator stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate actuator bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side guide lift gate OPEN for stationary exposure",
+      "source": "Custom 12-mm retractable guide; closed before any index, raised only during dwell"
+    },
+    {
+      "name": "Side guide lift actuator reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side guide lift rod",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation crosshead",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation guide pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate anti rotation guide pin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate actuator stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side gate actuator bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outer clear top bottom station guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide independent stanchion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide overhead support arm with 10 mm sample clearance",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide vertical tip above rotating disc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide independent stanchion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide overhead support arm with 10 mm sample clearance",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide vertical tip above rotating disc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide independent stanchion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide overhead support arm with 10 mm sample clearance",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide vertical tip above rotating disc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide independent stanchion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide overhead support arm with 10 mm sample clearance",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide vertical tip above rotating disc",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sample OD40 CS3 at 0 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 30 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 60 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 90 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 120 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 150 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Sample OD40 CS3 at 180 degrees",
+      "source": "Provisional sample size, not production range"
+    },
+    {
+      "name": "Top PHX051S C mount Edmund 12 mm lens 32 x 27.9",
+      "source": "Edmund #58-001 manufacturer envelope"
+    },
+    {
+      "name": "Top PHX051S C mount Lens front glass",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Lens locking screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount C mount threaded receiver",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Phoenix stacked dark housings",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Phoenix PCB edges",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Rear RJ45 connector shell",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount RJ45 socket opening",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Rear trigger connector",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Cable strain relief",
+      "source": "Provisional 60 mm connector and cable service reserve"
+    },
+    {
+      "name": "Top PHX051S C mount Camera body side saddle",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top PHX051S C mount Camera side fixing screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Edmund 12 mm lens 32 x 27.9",
+      "source": "Edmund #58-001 manufacturer envelope"
+    },
+    {
+      "name": "Bottom PHX051S C mount Lens front glass",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Lens locking screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount C mount threaded receiver",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Phoenix stacked dark housings",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Phoenix PCB edges",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Rear RJ45 connector shell",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount RJ45 socket opening",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Rear trigger connector",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Cable strain relief",
+      "source": "Provisional 60 mm connector and cable service reserve"
+    },
+    {
+      "name": "Bottom PHX051S C mount Camera body side saddle",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Bottom PHX051S C mount Camera side fixing screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Edmund 12 mm lens 32 x 27.9",
+      "source": "Edmund #58-001 manufacturer envelope"
+    },
+    {
+      "name": "Side A PHX051S C mount Lens front glass",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Lens locking screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount C mount threaded receiver",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Phoenix stacked dark housings",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Phoenix PCB edges",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Rear RJ45 connector shell",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount RJ45 socket opening",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Rear trigger connector",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side A PHX051S C mount Cable strain relief",
+      "source": "Provisional 60 mm connector and cable service reserve"
+    },
+    {
+      "name": "Side A PHX051S C mount underbody mounting pad",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Edmund 12 mm lens 32 x 27.9",
+      "source": "Edmund #58-001 manufacturer envelope"
+    },
+    {
+      "name": "Side B PHX051S C mount Lens front glass",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Lens locking screws",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount C mount threaded receiver",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Phoenix stacked dark housings",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Phoenix PCB edges",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Rear RJ45 connector shell",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount RJ45 socket opening",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Rear trigger connector",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Side B PHX051S C mount Cable strain relief",
+      "source": "Provisional 60 mm connector and cable service reserve"
+    },
+    {
+      "name": "Side B PHX051S C mount underbody mounting pad",
+      "source": "Manufacturer family envelope; housing detail approximated"
+    },
+    {
+      "name": "Top optical tower",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top tower foot slotted collar",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top optical tower",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top tower foot slotted collar",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top camera cross rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top camera reach",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top reach adjustable connection",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom optics lower transverse",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom optic drop",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom optic drop",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom camera reach",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom camera adjustment riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side optical tower",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side tower slotted collar",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side camera adjustable shelf",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side camera cantilever shelf",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side optical tower",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side tower slotted collar",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side camera adjustable shelf",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side camera cantilever shelf",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top low angle ring housing 100 60 20",
+      "source": "Provisional light envelope"
+    },
+    {
+      "name": "Top annular diffuser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top independent lighting arm",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Common independent lighting slide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top light mount screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom low angle ring housing 100 60 20",
+      "source": "Provisional light envelope"
+    },
+    {
+      "name": "Bottom annular diffuser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom independent lighting arm",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bottom light mount screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side auxiliary light reserve",
+      "source": "Unselected supplementary lighting placeholder"
+    },
+    {
+      "name": "Side light stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side light bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side auxiliary light reserve",
+      "source": "Unselected supplementary lighting placeholder"
+    },
+    {
+      "name": "Side light stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side light bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Separate feeder stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder stand foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Separate feeder stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder stand foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Separate feeder stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder stand foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Separate feeder stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder stand foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Independent feeder stand table",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder rubber isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder rubber isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder rubber isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder rubber isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder drive base 250 square",
+      "source": "Provisional RNA EcoType200-class reserve"
+    },
+    {
+      "name": "Electromagnetic drive housing",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder bowl adaptor and spring head",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder leaf spring pack",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder leaf spring pack",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder leaf spring pack",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Vibratory bowl conical shell 200 class",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bowl dished floor",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bowl continuous rising spiral tooling 44 mm",
+      "source": "Custom sample tooling; vibration, friction and separation require feeder supplier trials"
+    },
+    {
+      "name": "Outlet single file track bowl portion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outlet single file track linear portion",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outlet track containment wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Outlet track containment wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Bowl to linear feeder compliant tongue",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Compliant feeder conveyor transfer tongue",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Linear feeder track housing",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Linear track coupling risers",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Track vibration isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Track vibration isolator",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Track independent support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Track support stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Track support stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Singulation transfer bridge",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Singulation guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Singulation guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement finger cylinder",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement retractable rod",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement actuator mounting foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement finger",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement finger cylinder",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement retractable rod",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement actuator mounting foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement finger",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Entry photoelectric sensor",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sensor adjustment bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder lower longitudinal brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder lower longitudinal brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder lower transverse brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder lower transverse brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder rear diagonal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement frame outrigger",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement outrigger end riser",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Singulation bridge mounting ledge",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Escapement bridge vertical tie",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Continuous 35 degree gravity sorting floor",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter perimeter containment",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter perimeter containment",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter entry guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter entry guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Diverter gate ACCEPT position 40 degree reject stroke",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gate pivot normal to inclined floor",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gate servo mount with bearing",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Gate servo housing reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject outside transition guide",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Accept descending lane wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Accept descending lane wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Accept removable bin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Accept bin shelf rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Accept chute exit sensor reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject descending lane wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject descending lane wall",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject removable bin",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject bin shelf rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Reject chute exit sensor reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter air assist manifold",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter air nozzle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter frame transverse",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter bin cross tie",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter stand",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter frame transverse",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter bin cross tie",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter longitudinal top rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter longitudinal lower rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter longitudinal top rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter longitudinal lower rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter underside cross saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter deck support post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter deck support post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter underside cross saddle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter deck support post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Sorter deck support post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Open service electronics enclosure",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Removable electronics lid hidden for access",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Controls removable mounting backplate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet ventilation fan filter frame",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet ventilation finger grille",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet ventilation fan filter frame",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet ventilation finger grille",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet exhaust fan motor reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Siemens S7 1200 CPU1212C DC DC DC",
+      "source": "Manufacturer family envelope90x100x75; detailed ports approximated"
+    },
+    {
+      "name": "PLC label panel",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLC terminal strip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLC terminal screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLC terminal strip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLC terminal screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLC Ethernet socket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Jetson 1 Tanna 145 103 50 enclosure",
+      "source": "Seller envelope; photographed vents/port locations approximated"
+    },
+    {
+      "name": "Jetson 1 visible port interiors",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Jetson enclosure lid screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Jetson 2 Tanna 145 103 50 enclosure",
+      "source": "Seller envelope; photographed vents/port locations approximated"
+    },
+    {
+      "name": "Jetson 2 visible port interiors",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Jetson enclosure lid screws",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLACEHOLDER Invento DM556 118 75.5 33",
+      "source": "Provisional DM556 family envelope"
+    },
+    {
+      "name": "DM556 terminal blocks and DIP bank",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLACEHOLDER KRIPOWER 36V 350W PSU",
+      "source": "Provisional seller family130x100x40; mounting holes not frozen"
+    },
+    {
+      "name": "PSU fan grille",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PSU screw terminals",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PSU terminals",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLACEHOLDER 24V control and lighting PSU",
+      "source": "Unselected 24V PSU reserve"
+    },
+    {
+      "name": "PLACEHOLDER network expansion switch",
+      "source": "Reserved for multi GigE interface; exact topology unresolved"
+    },
+    {
+      "name": "Network RJ45 port",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Network RJ45 port",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Network RJ45 port",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Network RJ45 port",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Network RJ45 port",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLACEHOLDER trigger sensor interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "DIN terminal interface",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Slotted wiring duct",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Slotted wiring duct",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Slotted wiring duct",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet cable glands",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Operator panel post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "PLACEHOLDER seven inch HMI housing",
+      "source": "Optional unselected HMI envelope"
+    },
+    {
+      "name": "HMI display",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Emergency stop base",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Emergency stop mushroom",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear protective rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard lower rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear transparent protective panel",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear cable trunk",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear optical foundation beam",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation cross beam",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation cross beam",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation cross beam",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation cross beam",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Conveyor foundation rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Lighting slide foundation plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Shared inner tooling foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Shared inner tooling foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Shared right lighting foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Right shared light gate plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Right shared light gate plate M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Left shared guide light gate plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Left shared guide light gate plate M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support adjustable post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support yoke base",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support bearing cheeks",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc compliant idler OD20 radial axle",
+      "source": "Custom support; zero interference nominal tangent, preload/runout to qualify"
+    },
+    {
+      "name": "Disc support axle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support adjustable post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support yoke base",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support bearing cheeks",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc compliant idler OD20 radial axle",
+      "source": "Custom support; zero interference nominal tangent, preload/runout to qualify"
+    },
+    {
+      "name": "Disc support axle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support foundation plate M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support adjustable post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support yoke base",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc support bearing cheeks",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Disc compliant idler OD20 radial axle",
+      "source": "Custom support; zero interference nominal tangent, preload/runout to qualify"
+    },
+    {
+      "name": "Disc support axle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide support tip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide support tip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guide bolted foundation M5 foundation fixings",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide support tip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Inner guide support tip",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side optics foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side optics foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Operator controls foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Emergency stop panel bracket",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Emergency stop pedestal",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Emergency stop foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Beam connection angle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet spacer foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet spacer foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet foot cross support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet spacer foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet spacer foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Cabinet foot cross support",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre lower frame leg",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre upper frame leg",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre levelling foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre lower frame leg",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre upper frame leg",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre levelling foot",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Centre foot mounting plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear diagonal frame brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear diagonal frame brace",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Feeder welded tooling ledge tab",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Top camera rear service loop",
+      "source": "Routing reserve; final cable construction and bend radius require supplier confirmation"
+    },
+    {
+      "name": "Bottom camera rear service loop",
+      "source": "Routing reserve; final cable construction and bend radius require supplier confirmation"
+    },
+    {
+      "name": "Side camera protected rear service loop",
+      "source": "Routing reserve; final cable construction and bend radius require supplier confirmation"
+    },
+    {
+      "name": "Side camera protected rear service loop",
+      "source": "Routing reserve; final cable construction and bend radius require supplier confirmation"
+    },
+    {
+      "name": "Cabinet to rear cable trunk loom",
+      "source": "Routing reserve; final cable construction and bend radius require supplier confirmation"
+    },
+    {
+      "name": "Guard front post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard base foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard post base plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard upper side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard base plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side transparent guard with conveyor tunnel opening",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Extended conveyor access tunnel",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard front post",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard post base plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard upper side rail",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard rear extension",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard base plate",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard foundation",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Side transparent guard with conveyor tunnel opening",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Extended conveyor access tunnel",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Front sliding door track",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Front sliding door track",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Front sliding transparent access door",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Door recessed handle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard interlock reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Front sliding transparent access door",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Door recessed handle",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Guard interlock reserve",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Removable transparent top guard",
+      "source": "Provisional fabrication / layout assumption"
+    },
+    {
+      "name": "Rear guard upper infill",
+      "source": "Provisional fabrication / layout assumption"
+    }
+  ]
+}

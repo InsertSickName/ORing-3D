@@ -1,0 +1,14 @@
+{
+  "extent_mm": [
+    2500.0,
+    1025.0,
+    1090.0
+  ],
+  "bottom_camera_rotation_x": [
+    -1.0,
+    0.0,
+    0.0
+  ],
+  "critical_interferences": [],
+  "sight_line_obstructions": []
+}
